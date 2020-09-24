@@ -1,7 +1,7 @@
 # Deploy web app on heroku
 This is a web development project using python.
-I create dashboard by using plotly and then create a small app through flask. 
-I using well known titanic dataset to create four chart.
+I create dashboard by using plotly and <br> then create a small app through flask. <br>
+I use well known titanic dataset to create four chart.
 # Required libraries
 - Python
 - Flask
