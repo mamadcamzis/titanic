@@ -16,6 +16,6 @@ The web app will look like
 
 
 
-click here to see the deployed app <a href=https://mc-titanic-dashboard.herokuapp.com/> Titanic dashboard </a>
+Click here to see the deployed app <a href=https://mc-titanic-dashboard.herokuapp.com/> Titanic dashboard </a>
 
 Dataset is: <a href="https://www.kaggle.com/c/titanic"> Titanic </a>
