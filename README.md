@@ -9,6 +9,7 @@ I using well known titanic dataset to create four chart.
 - Gunicorn
 # Running code
 python myapp.py
+
 And open new window on your web browser, tap http://0.0.0.0:3001/.
 The web app will look like 
 
