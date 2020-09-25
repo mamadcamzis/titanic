@@ -17,6 +17,7 @@ And open new window on your web browser, tap http://0.0.0.0:3001/.
 
 
 
-Click here to see the deployed app <a href="https://mc-titanic-dashboard.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Titanic dashboard </a>
+<p> Click here to see the deployed app <a href="https://mc-titanic-dashboard.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Titanic dashboard </a></p>
 
-Dataset is here: <a href="https://www.kaggle.com/c/titanic" target="_blank" rel="noopener noreferrer"> Titanic </a>
+<p> Dataset is here: <a href="https://www.kaggle.com/c/titanic/" target="_blank" rel="noopener noreferrer"> Titanic </a></p>
+
